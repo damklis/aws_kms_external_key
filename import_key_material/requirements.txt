@@ -4,5 +4,5 @@ cryptography==3.3.2
 pyOpenSSL==19.1.0
 mock==3.0.5
 pytest==5.3.2
-rsa==4.0
+rsa==4.1
 pycryptodome==3.9.4
